@@ -1,3 +1,8 @@
+data/cifar-*
+data/MNIST
+data/model/net.pth
+data/plot/*.pdf
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
